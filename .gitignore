@@ -1,0 +1,6 @@
+secrets.py
+cache.json
+__pycache__
+choc.sqlite
+news.db
+news_cache1.json
